@@ -1,11 +1,9 @@
-<p># Traduction-Packet-tracer-8.02<br />
-Traduction en fran&ccedil;ais des phrases d&#39;explication des diff&eacute;rentes couches dans Packet Tracer.</p>
+<h1># Traduction-Packet-tracer-8.02<br />
+Traduction en fran&ccedil;ais de Packet Tracer 8.02</h1>
 
 <p><img src="https://ckeditor.com/apps/ckfinder/userfiles/files/image(10).png" style="height:347px; width:400px" /></p>
 
 <h2>G&eacute;n&eacute;rer un fichier .ptl</h2>
-
-<p>&nbsp;</p>
 
 <ol>
 	<li>Le fichier .ts est &eacute;ditable &agrave; l&#39;aide de Qt linguist<br />
@@ -22,4 +20,3 @@ Utiliser le fichier .ptl</h2>
 	<li>Dans les pr&eacute;f&eacute;rences, choisir le nouveau fichier .ptl</li>
 	<li>Red&eacute;marrer Packet Tracer</li>
 </ol>
-
