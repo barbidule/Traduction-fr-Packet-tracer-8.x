@@ -13825,7 +13825,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2699"/>
         <source> File</source>
-        <translation type="unfinished"></translation>
+        <translation> Fichier</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2703"/>
@@ -21249,27 +21249,27 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="20"/>
         <source>Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="274"/>
         <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Internet Setup&lt;/b&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Paramètres Internet&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="399"/>
         <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Network Setup&lt;/b&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Paramètres Réseau&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="473"/>
         <source>&lt;p align=&quot;right&quot;&gt;Internet Connection Type&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p align=&quot;right&quot;&gt;Type de Connexion Internet&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="504"/>
         <source>&lt;p align=&quot;right&quot;&gt;Router IP&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p align=&quot;right&quot;&gt;IP du Routeur&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1070"/>
@@ -21396,43 +21396,43 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3354"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3357"/>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2583"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2586"/>
         <source>Maximum number of Users:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre d&apos;utilisateurs maximum :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3418"/>
         <source>ISP Vlans</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlans du FAI</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3505"/>
         <source>Vlan IDs:</source>
-        <translation type="unfinished"></translation>
+        <translation>IDs Vlan :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3549"/>
         <source>Internet: </source>
-        <translation type="unfinished"></translation>
+        <translation>Internet : </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3569"/>
         <source>VoIP: </source>
-        <translation type="unfinished"></translation>
+        <translation>VoIP : </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3589"/>
         <source>IpTV: </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3627"/>
         <source>Port Vlans:</source>
-        <translation type="unfinished"></translation>
+        <translation>Port Vlans :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3670"/>
@@ -21442,7 +21442,7 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3802"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3821"/>
         <source>Internet</source>
-        <translation type="unfinished"></translation>
+        <translation>Internet</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3675"/>
@@ -21453,7 +21453,7 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3807"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3826"/>
         <source>VoIP</source>
-        <translation type="unfinished"></translation>
+        <translation>VoIP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3680"/>
@@ -21464,54 +21464,54 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3812"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3831"/>
         <source>IPTV</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3707"/>
         <source>Port 3:</source>
-        <translation type="unfinished"></translation>
+        <translation>Port 3 :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3717"/>
         <source>Port 2:</source>
-        <translation type="unfinished"></translation>
+        <translation>Port 2 :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3746"/>
         <source>Port 4:</source>
-        <translation type="unfinished"></translation>
+        <translation>Port 4 :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3776"/>
         <source>Internet </source>
-        <translation type="unfinished"></translation>
+        <translation>Internet </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3794"/>
         <source>2.4GHz: </source>
-        <translation type="unfinished"></translation>
+        <translation>2.4GHz : </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3839"/>
         <source>5GHz - 1: </source>
-        <translation type="unfinished"></translation>
+        <translation>5GHz - 1 : </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3849"/>
         <source>5GHz -2:  </source>
-        <translation type="unfinished"></translation>
+        <translation>5GHz -2 :  </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3859"/>
         <source>Port 1: </source>
-        <translation type="unfinished"></translation>
+        <translation>Port 1 : </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4050"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4053"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4059"/>
         <source>Cancel Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler les modifications</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4260"/>
@@ -21520,7 +21520,11 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Aide...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1803"/>
@@ -21530,35 +21534,35 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2375"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2378"/>
         <source>Subnet Mask:</source>
-        <translation type="unfinished"></translation>
+        <translation>Masque de sous-réseau :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1127"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1130"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1133"/>
         <source>Default Gateway:</source>
-        <translation type="unfinished"></translation>
+        <translation>Passerelle par défaut :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1273"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1276"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1279"/>
         <source>DNS 1:</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS 1 :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1419"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1422"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1425"/>
         <source>DNS 2 (Optional):</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS 2 (optionnel) :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1565"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1568"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1571"/>
         <source>DNS 3 (Optional):</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS 3 (optionnel) :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1168"/>
@@ -21661,42 +21665,42 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3335"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3338"/>
         <source>.</source>
-        <translation type="unfinished"></translation>
+        <translation>.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1086"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1089"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1092"/>
         <source>Internet IP Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse IP Internet :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4025"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4028"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4034"/>
         <source>Save Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer les réglages</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2115"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2118"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2121"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2134"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2137"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2140"/>
         <source>1500</source>
-        <translation type="unfinished"></translation>
+        <translation>1500</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2266"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2269"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2272"/>
         <source>168</source>
-        <translation type="unfinished"></translation>
+        <translation>168</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2301"/>
@@ -21706,169 +21710,171 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2339"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2342"/>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2231"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2234"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2237"/>
         <source>192</source>
-        <translation type="unfinished"></translation>
+        <translation>192</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="265"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="268"/>
         <source>Internet Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres Internet</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="390"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="393"/>
         <source>Network Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres Réseau</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="436"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;Optional Settings&lt;br/&gt;(required by some internet service providers)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;Paramètres optionnels&lt;br/&gt;(requis par certains FAI)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="430"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="433"/>
         <source>Optional Settings(required by some internet service providers)</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres optionnels (requis par certains FAI)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="467"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="470"/>
         <source>Internet Connection Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Type de connection Internet</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="498"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="501"/>
         <source>Router IP</source>
-        <translation type="unfinished"></translation>
+        <translation>IP Routeur</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="529"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="532"/>
         <source>DHCP Server Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres Serveur DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2006"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2009"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2012"/>
         <source>Host Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d&apos;hôte :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2092"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2095"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2098"/>
         <source>MTU:</source>
-        <translation type="unfinished"></translation>
+        <translation>MTU :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2430"/>
         <source>DHCP 
 Server:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveur 
+DHCP :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2424"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2427"/>
         <source>DHCP Server:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveur DHCP :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2488"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2491"/>
         <source>DHCP Reservation</source>
-        <translation type="unfinished"></translation>
+        <translation>Bail DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2589"/>
         <source>Maximum number
 of Users:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre d&apos;utilisateurs 
+maximum :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2636"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2639"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2642"/>
         <source>IP Address Range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Plage d&apos;adresses IP :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2743"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2746"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2749"/>
         <source>Client Lease Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Durée du bail :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2775"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2778"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2781"/>
         <source>minutes (0 means one day)</source>
-        <translation type="unfinished"></translation>
+        <translation>minutes (0 signifie un jour)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2798"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2801"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2804"/>
         <source>Static DNS 1:</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS Statique 1 :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2941"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2944"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2947"/>
         <source>Static DNS 2:</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS Statique 2 :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3084"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3087"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3090"/>
         <source>Static DNS 3:</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS Statique 3 :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3227"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3230"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3233"/>
         <source>WINS:</source>
-        <translation type="unfinished"></translation>
+        <translation>WINS :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4242"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4245"/>
         <source>Help...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aide...</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2509"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2512"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2515"/>
         <source>Start IP Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse IP de départ :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2049"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2052"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2055"/>
         <source>Domain Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de domaine :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2212"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2215"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2218"/>
         <source>IP Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse IP :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2450"/>
@@ -21876,7 +21882,7 @@ of Users:</source>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2456"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3452"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Activé</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2466"/>
@@ -21884,27 +21890,28 @@ of Users:</source>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2472"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3459"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactivé</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2494"/>
         <source>DHCP 
 Reservation</source>
-        <translation type="unfinished"></translation>
+        <translation>Bail 
+DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2705"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2708"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2711"/>
         <source>149</source>
-        <translation type="unfinished"></translation>
+        <translation>149</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2689"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2692"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2695"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2547"/>
@@ -21914,7 +21921,7 @@ Reservation</source>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2676"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2679"/>
         <source>100</source>
-        <translation type="unfinished"></translation>
+        <translation>100</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2525"/>
@@ -21924,84 +21931,86 @@ Reservation</source>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2655"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2658"/>
         <source>192.168.1.</source>
-        <translation type="unfinished"></translation>
+        <translation>192.168.1.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2603"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2606"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2609"/>
         <source>50</source>
-        <translation type="unfinished"></translation>
+        <translation>50</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="940"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="943"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="946"/>
         <source>Service Name(Optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du Service (optionnel)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="535"/>
         <source>&lt;p align=&quot;right&quot;&gt;DHCP Server 
 
 Setting&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p align=&quot;right&quot;&gt;Paramètres 
+
+Serveur DHCP&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="988"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="991"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="994"/>
         <source>Minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minute.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1030"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1033"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1036"/>
         <source>Second.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seconde.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1017"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1020"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1023"/>
         <source>30</source>
-        <translation type="unfinished"></translation>
+        <translation>30</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="921"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="924"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="927"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mot de passe :</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1004"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1007"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1010"/>
         <source>Keep Alive: Redial Period</source>
-        <translation type="unfinished"></translation>
+        <translation>Keep Alive : délai de rappel</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="959"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="962"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="965"/>
         <source>Connect on Demand: Max Idle Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Connexion à la demande : Durée d&apos;Inactivité Max</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="975"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="978"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="981"/>
         <source>15</source>
-        <translation type="unfinished"></translation>
+        <translation>15</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="902"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="905"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="908"/>
         <source>UserName:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d&apos;utilisateur :</translation>
     </message>
 </context>
 <context>
@@ -34777,39 +34786,41 @@ PDU to create the PDU at the next lower layer.</source>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="273"/>
         <source>Moves the PDU from the inbound OSI stack to the
 outbound OSI stack.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fait passer le PDU de la pile OSI &quot;Entrant&quot; à la pile OSI &quot;Sortant&quot;.</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="274"/>
         <source>Accepts and finishes processing of the PDU.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Accepte de traiter le PDU.</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="275"/>
         <source>Holds the PDU for processing or sending at a later time.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Retient le PDU pour le traiter ou l&apos;envoyer plus tard.</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="276"/>
         <source>Eliminates the PDU.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elimine le PDU.</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="277"/>
         <source>Sends the signal out the physical media.</source>
-        <translation type="unfinished"></translation>
+        <translation>Envoie le signal sur le média physique.</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="286"/>
         <source>PDU Information at Device: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Informations relatives au PDU sur l&apos;appareil : %1</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="672"/>
         <source>At Device: %1
 Source: %2
 Destination: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Appareil actuel : %1
+Source : %2
+Destination : %3</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="798"/>
@@ -34817,12 +34828,12 @@ Destination: %3</source>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="823"/>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1026"/>
         <source>%1 &gt;&gt; %2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="799"/>
         <source>Ethernet II Header</source>
-        <translation type="unfinished"></translation>
+        <translation>En-tête Ethernet II</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="812"/>
@@ -35060,67 +35071,67 @@ Destination: %3</source>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1292"/>
         <source>RIP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1314"/>
         <source>RIPv6</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1342"/>
         <source>TELNET</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1349"/>
         <source>NTP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1356"/>
         <source>SSH</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1378"/>
         <source>DNS</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1426"/>
         <source>ISAKMP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1569"/>
         <source>SNMP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1576"/>
         <source>TFTP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1588"/>
         <source>HTTPS</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1593"/>
         <source>HTTP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1604"/>
         <source>TACACS</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1612"/>
         <source>SYSLOG</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1726"/>
@@ -35129,13 +35140,13 @@ Destination: %3</source>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1770"/>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1781"/>
         <source>Version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Version : %1</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1906"/>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1924"/>
         <source>Src Port: %1, Dst Port: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Port Src : %1, Port Dst : %2</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1934"/>
@@ -35145,7 +35156,7 @@ Destination: %3</source>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1996"/>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2019"/>
         <source>Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Type : %1</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1955"/>
@@ -35160,65 +35171,66 @@ Destination: %3</source>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2169"/>
         <source>Control Message Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Type de message de contrôle : %1</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2406"/>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2419"/>
         <source>Layer 1: </source>
-        <translation type="unfinished"></translation>
+        <translation>Couche 1 : </translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2407"/>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2418"/>
         <source>Layer 2: </source>
-        <translation type="unfinished"></translation>
+        <translation>Couche 2 : </translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2408"/>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2417"/>
         <source>Layer 3: </source>
-        <translation type="unfinished"></translation>
+        <translation>Couche 3 : </translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2409"/>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2416"/>
         <source>Layer 4: </source>
-        <translation type="unfinished"></translation>
+        <translation>Couche 4 : </translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2410"/>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2415"/>
         <source>Layer 5: </source>
-        <translation type="unfinished"></translation>
+        <translation>Couche 5 : </translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2411"/>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2414"/>
         <source>Layer 6: </source>
-        <translation type="unfinished"></translation>
+        <translation>Couche 6 : </translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2412"/>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2413"/>
         <source>Layer 7: </source>
-        <translation type="unfinished"></translation>
+        <translation>Couche 7 : </translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2616"/>
         <source>Layer 1: Port %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Couche 1 : Port %1</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2620"/>
         <source>Layer 1: Port(s): </source>
-        <translation type="unfinished"></translation>
+        <translation>Couche 1: Port(s) : </translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2628"/>
         <source>Layer 2: 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Couche 2 : 
+</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2631"/>
@@ -35230,111 +35242,116 @@ Destination: %3</source>
         <source>
 %1
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2636"/>
         <source>Layer 3: 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Couche 3 : 
+</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2645"/>
         <source>Layer 4: 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Couche 4 : 
+</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2653"/>
         <source>Layer 5: 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Couche 5 : 
+</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2661"/>
         <source>Layer 6: 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Couche 6 : 
+</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2669"/>
         <source>Layer 7: 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Couche 7 : 
+</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2675"/>
         <source>
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2731"/>
         <source>PDU Info Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Infos PDU</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2746"/>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2904"/>
         <source>What is the device decision in this layer?</source>
-        <translation type="unfinished"></translation>
+        <translation>Quelle est la décision prise par l&apos;appareil à cette couche ?</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2805"/>
         <source>Good Job! What about this layer?
 What is the device decision in this layer?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bien joué ! Et à cette couche ? Quelle est la décision de l&apos;appareil ?</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2814"/>
         <source>Congratulations! You have successfully completed this challenge. You may repeat this challenge by toggling the &quot;Challenge Me&quot; button, or you may try your knowledge at another protocol data unit (PDU).</source>
-        <translation type="unfinished"></translation>
+        <translation>Félicitations ! Vous avez terminé le challenge. Vous pouvez le tenter à nouveau ou essayer avec un autre PDU.</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2828"/>
         <source>Sorry. That is not the right answer. Please try again.
 What is the device decision in this layer?</source>
-        <translation type="unfinished"></translation>
+        <translation>Désolé. Ce n&apos;est pas la bonne réponse. Essayez encore : quelle est la décision prise par l&apos;appareil à cette couche ?</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="833"/>
         <source>LLC</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="844"/>
         <source>SNAP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="872"/>
         <source>REP LSL</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="883"/>
         <source>REP HFL</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1620"/>
         <source>SMTP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1628"/>
         <source>POP3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1636"/>
         <source>FTP DATA</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1644"/>
         <source>FTP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1652"/>
@@ -35342,27 +35359,27 @@ What is the device decision in this layer?</source>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1680"/>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1688"/>
         <source>BGP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1696"/>
         <source>RTP</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1704"/>
         <source>VOIP DATA</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1711"/>
         <source>SCCP MESSAGE</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1719"/>
         <source>PPPOE</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
