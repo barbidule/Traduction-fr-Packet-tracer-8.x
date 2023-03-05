@@ -14,8 +14,7 @@ Traduction en fran&ccedil;ais de Packet Tracer 8.02</h1>
 <h2>Contribuer &agrave; la traduction</h2>
 
 <ol>
-	<li>Le fichier default.ts contient les strings en anglais</li>
-	<li>Le fichier francais8.02.ts contient les strings traduites. Il est &eacute;ditable &agrave; l&#39;aide de Qt linguist<br />
+	<li>Le fichier french.ts contient les strings traduites. Il est &eacute;ditable &agrave; l&#39;aide de Qt linguist<br />
 	https://github.com/lelegard/qtlinguist-installers</li>
 	<li>A partir de Qt linguist, ouvrir le fichier .ts, et le publier en tant que fichier .qm</li>
 	<li>Renommer le fichier .qm en .ptl pour permettre son utilisation dans Packet Tracer</li>
