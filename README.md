@@ -6,7 +6,7 @@ Traduction en fran&ccedil;ais de Packet Tracer 8.02</h1>
 <h2>Utiliser le fichier francais8.02.ptl</h2>
 
 <ol>
-	<li>Placer le fichier <a href="https://github.com/barbidule/Traduction-Packet-tracer-8.02/blob/master/francais8.02.ptl">https://github.com/barbidule/Traduction-Packet-tracer-8.02/blob/master/francais8.02.ptl</a>&nbsp;dans le r&eacute;pertoire C:\Program Files\Cisco Packet Tracer 8.2.0\languages</li>
+	<li>Placer le fichier <a href="[https://github.com/barbidule/Traduction-Packet-tracer-8.02/blob/master/francais8.02.ptl](https://github.com/barbidule/Traduction-Packet-tracer-8.02/raw/master/francais8.02.ptl)">https://github.com/barbidule/Traduction-Packet-tracer-8.02/blob/master/francais8.02.ptl</a>&nbsp;dans le r&eacute;pertoire C:\Program Files\Cisco Packet Tracer 8.2.0\languages</li>
 	<li>Dans les pr&eacute;f&eacute;rences, choisir le nouveau fichier .ptl</li>
 	<li>Red&eacute;marrer Packet Tracer</li>
 </ol>
