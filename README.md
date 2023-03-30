@@ -1,7 +1,7 @@
 <h1># Traduction-Packet-tracer-8.02<br />
 Traduction en fran&ccedil;ais de Packet Tracer 8.02</h1>
 
-<p><img src="[https://capture.dropbox.com/1z95aP22lVI7BsY1](https://ucbe565a495910cac88883e2b37c.previews.dropboxusercontent.com/p/thumb/AB3HAi8sIhseh7Evj4cACbVkx46iFqc3q9Z9EYTnGn4tVL7GoHVw-ACim54r1vMLG1STIW0A3fnPRWzJ60eDmhaK-w7FQkpP4iMCC76zDssjMrKwL2m3eaq_7Le-lekvLH00yqlsGJDATi2MK1ZZNSya_WkD5osNH88J5_lJrD4xPLQQ7uIdUoF7_AcMuaNlpCGeYWDIq96Dagl0YbrZD_OhfH91e1TOYAo_uJxVDBDbXp54vaEISk1VUV9XatEQfYBUujxOicvYmJQV_ymTQ4lPvHOGPPMCqQ-TopTyWEzWcuRqYIKVyxTJ0Fw0rHbXPqPIQU9hgnQ-XbAMIx2lXBaQnlxiJIItfR2PhrCcdporfzsSGdSh7wYiijAPbyaZA1ejN_91NVBZtrfuP-cEHp8o/p.png)" style="height:347px; width:400px" /></p>
+<p><img src="[[[https://capture.dropbox.com/1z95aP22lVI7BsY1](https://ucbe565a495910cac88883e2b37c.previews.dropboxusercontent.com/p/thumb/AB3HAi8sIhseh7Evj4cACbVkx46iFqc3q9Z9EYTnGn4tVL7GoHVw-ACim54r1vMLG1STIW0A3fnPRWzJ60eDmhaK-w7FQkpP4iMCC76zDssjMrKwL2m3eaq_7Le-lekvLH00yqlsGJDATi2MK1ZZNSya_WkD5osNH88J5_lJrD4xPLQQ7uIdUoF7_AcMuaNlpCGeYWDIq96Dagl0YbrZD_OhfH91e1TOYAo_uJxVDBDbXp54vaEISk1VUV9XatEQfYBUujxOicvYmJQV_ymTQ4lPvHOGPPMCqQ-TopTyWEzWcuRqYIKVyxTJ0Fw0rHbXPqPIQU9hgnQ-XbAMIx2lXBaQnlxiJIItfR2PhrCcdporfzsSGdSh7wYiijAPbyaZA1ejN_91NVBZtrfuP-cEHp8o/p.png)](https://imgur.com/CKYMWNr)" style="height:347px; width:400px](https://i.imgur.com/CKYMWNr.png)" /></p>
 
 <h2>Utiliser le fichier french.ptl</h2>
 
