@@ -1,7 +1,7 @@
 <h1># Traduction-Packet-tracer-8.02<br />
 Traduction en fran&ccedil;ais de Packet Tracer 8.02</h1>
 
-<p><img src="https://ckeditor.com/apps/ckfinder/userfiles/files/image(10).png" style="height:347px; width:400px" /></p>
+<p><img src="https://capture.dropbox.com/1z95aP22lVI7BsY1" style="height:347px; width:400px" /></p>
 
 <h2>Utiliser le fichier french.ptl</h2>
 
