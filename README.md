@@ -1,5 +1,5 @@
-<h1># Traduction-Packet-tracer-8.2<br />
-Traduction en fran&ccedil;ais de Packet Tracer 8.2</h1>
+<h1># Traduction-Packet-tracer-8.x<br />
+Traduction en fran&ccedil;ais de Packet Tracer 8.x</h1>
 
 <p><img src="https://i.imgur.com/CKYMWNr.png" /></p>
 
